@@ -1,7 +1,7 @@
 import colors from "@juel/hooks/colors";
 
 export const lightColors = {
-  main: colors.purple,
+  main: colors.emerald,
   sec: colors.purple,
   neu: colors.gray,
 };
